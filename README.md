@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I am a passionate and aspiring iOS developer with 
 - MVVM
 - UIKit
 - MVC
+- XCTest
+- Unit testing
 - Git & GitHub
 - Core Data
 - Scrum
