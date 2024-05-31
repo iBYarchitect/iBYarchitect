@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alex Zavadski
+# Hi there! 👋 I'm Alexander Zawadski
 
 ![iOS Developer](https://img.shields.io/badge/iOS%20Developer-%F0%9F%9B%A0-orange)
 
