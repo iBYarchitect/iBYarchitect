@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I am a passionate and aspiring iOS developer with 
 
 ## 🚀 Looking for Opportunities
 
-I am actively seeking job opportunities as an iOS developer. If you think I could be a great fit for your team or project, feel free to reach out to me. I'd love to hear from you!
+Open for new exciting job opportunities and projects. If you think I could be a great fit for your team or project, feel free to reach out to me. I'd love to hear from you!
