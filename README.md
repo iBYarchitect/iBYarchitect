@@ -2,7 +2,7 @@
 
 ![iOS Developer](https://img.shields.io/badge/iOS%20Developer-%F0%9F%9B%A0-orange)
 
-Welcome to my GitHub profile! I am a passionate and aspiring iOS developer with a strong enthusiasm for creating elegant and user-friendly mobile applications. I am actively seeking new opportunities to contribute to exciting projects and collaborate with talented teams.
+Welcome to my GitHub profile! I am a passionate and aspiring iOS developer with a strong enthusiasm for creating elegant and user-friendly mobile applications. 
 
 ## 🔭 Current Focus
 
